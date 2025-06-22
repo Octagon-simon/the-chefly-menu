@@ -53,7 +53,7 @@ export default function MenuPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
               <MenuIcon className="h-8 w-8 text-blue-600" />
-              <h1 className="text-2xl font-bold text-gray-900">Restaurant Menu</h1>
+              <h1 className="text-2xl font-bold text-gray-900">The Chefly Menu</h1>
             </div>
             <button
               onClick={() => setShowQR(!showQR)}

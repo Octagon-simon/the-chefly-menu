@@ -56,7 +56,7 @@ export const MenuPage = () => {
             <div className="flex items-center gap-2">
               <SoupIcon className="h-8 w-8 text-blue-600" />
               <h1 className="text-2xl font-bold text-gray-900">
-                Restaurant Menu
+                The Chefly Menu
               </h1>
             </div>
             <button
